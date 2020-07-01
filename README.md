@@ -8,7 +8,7 @@ This responsive website was done for a barber in Fribourg. It provides all neces
 * [Zenithude](www.zenithude.ch)
 
 
-This responsive website was done for a Beauty salon in Matran. Emphasis was placed on the presentation of the different services proposed by the beautician. It also provides a form to book an appointment online, which helps the company's organization.
+This responsive website was done for a beauty salon in Matran. Emphasis was placed on the presentation of the different services proposed by the beautician. It also provides a form to book an appointment online. The goal of the website creation was to support the digital development of the company.
 * [Codes-Postaux.ch](www.codes-postaux.ch)
 
 This responsive website provides a front-end access to the swiss location API that I have implemented. It allows the user to find the zip code of any swiss town or to find the name of a town given its zip code.
